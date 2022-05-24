@@ -1,0 +1,9 @@
+### Default ignored files
+
+bot/
+__pycache__
+.idea/
+.gitignore.bak
+.idea/
+config.py
+*.sqlite
